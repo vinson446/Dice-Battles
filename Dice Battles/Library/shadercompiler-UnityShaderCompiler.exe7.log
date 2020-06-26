@@ -1,0 +1,60 @@
+Base path: 'C:/buildslave/unity/build/build/WindowsEditor/Data', plugins path ''
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=22333 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=40188 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=32155 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=75130 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=74855 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=57579 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=68532 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=25750 outsize=15695 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=25750 outsize=324 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=9146 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4918 outsize=2708 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3257 outsize=2371 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11912 outsize=1172 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7423 outsize=1033 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13624 outsize=2204 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21554 outsize=14767 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2905 outsize=1865 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3022 outsize=3237 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7918 outsize=532 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20668 outsize=95086 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=36515 outsize=31493 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=36515 outsize=31493 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5065 outsize=695 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5065 outsize=899 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8970 outsize=4890 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3043 outsize=551 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9814 outsize=4045 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7700 outsize=5715 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3918 outsize=2751 ok=1

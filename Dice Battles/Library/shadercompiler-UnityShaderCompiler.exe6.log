@@ -1,0 +1,60 @@
+Base path: 'C:/buildslave/unity/build/build/WindowsEditor/Data', plugins path ''
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=33379 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=63366 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=36140 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=42889 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=44153 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=65731 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=77767 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15603 outsize=44450 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=25750 outsize=15917 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=7844 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9461 outsize=467 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11912 outsize=1307 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7423 outsize=6491 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21554 outsize=15086 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8644 outsize=4857 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2553 outsize=2594 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3022 outsize=2044 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7918 outsize=317 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20668 outsize=95091 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=36515 outsize=32395 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=36515 outsize=32395 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5065 outsize=3022 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8970 outsize=4890 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3043 outsize=2697 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9814 outsize=4256 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7700 outsize=7862 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3918 outsize=3422 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3654 outsize=1426 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17632 outsize=5164 ok=1
